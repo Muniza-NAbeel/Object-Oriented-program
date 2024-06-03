@@ -1,0 +1,20 @@
+{
+  "name": "giaic-cli-oop-project",
+  "version": "1.0.2",
+  "description": "This is a Cli Based Object Oriented Programming Project With using Typescript , Node.js & Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "types": "inquirer",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muniza Nabeel",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
